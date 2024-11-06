@@ -15,6 +15,9 @@ A simple, interactive chatbot built using HTML, CSS, and JavaScript. The chatbot
 - **CSS**: Styling the user interface to make it interactive and visually appealing.
 - **JavaScript**: Handling chatbot functionality, message interactions, and dynamic responses.
 
+## Have a look on my project by following the below link
+https://manojkollu18.github.io/CHATBOT/
+
 ## Getting Started
 
 To run the chatbot locally on your machine:
